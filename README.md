@@ -58,7 +58,7 @@ This project provides a **fully functional AWS VPC setup** using the AWS Console
 
 ## 📗 Related Blog
 
-Check out the full tutorial on [Medium](https://medium.com/@yourusername/aws-vpc-nat-gateway-tutorial) 
+Check out the full tutorial on [Medium](https://ashwini-singh.medium.com/create-a-secure-vpc-on-aws-with-public-private-subnets-igw-nat-gateway-no-cli-ed1c3533618a) 
 
 ---
                                             
